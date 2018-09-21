@@ -1,3 +1,6 @@
 [submodule "shared-modules"]
 	path = shared-modules
 	url = https://github.com/flathub/shared-modules
+[submodule "bulletml-flatpak"]
+	path = bulletml-flatpak
+	url = https://github.com/joaquimrocha/bulletml-flatpak.git
